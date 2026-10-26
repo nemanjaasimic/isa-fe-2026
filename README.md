@@ -1,2 +1,2 @@
-# isa-fe-2025
-ISA 2025 Course Project
+# isa-fe-2026
+ISA 2026 Course Project
